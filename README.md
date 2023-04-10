@@ -1,6 +1,9 @@
 # checkpoint 
 https://drive.google.com/drive/folders/1snBfwbOQEBmEPHtr3WcT24oANVAqJ9Yj
 
+# RobustFragmentVC
+To use the robust version, replace the preprocess script with the preprocess_denoise script to randomly noise the data. Also, replace the training module with one of the training scripts (train_cv_finetune, train_cv_vctk_scratch).
+
 # FragmentVC
 
 Here is the official implementation of the paper, [FragmentVC: Any-to-Any Voice Conversion by End-to-End Extracting and Fusing Fine-Grained Voice Fragments With Attention](https://arxiv.org/abs/2010.14150).
