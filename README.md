@@ -1,8 +1,8 @@
-# checkpoint 
+# checkpoints
 https://drive.google.com/drive/folders/1snBfwbOQEBmEPHtr3WcT24oANVAqJ9Yj
 
 # RobustFragmentVC
-To use the robust version, replace the preprocess script with the preprocess_denoise script to randomly noise the data. Also, replace the training module with one of the training scripts (train_cv_finetune, train_cv_vctk_scratch).
+To use the robust version, replace the preprocess script with the preprocess_denoise script to randomly noise the data. Also, replace the training module with one of the training scripts (train_cv_finetune, train_cv_vctk_scratch). Common Voice data can be found here https://commonvoice.mozilla.org/en/datasets. You can also use your own data set. Useful checkpoints are uploaded in the link shared above. 
 
 # FragmentVC
 
