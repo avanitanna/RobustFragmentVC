@@ -1,3 +1,6 @@
+# RobustFragmentVC checkpoint 
+https://drive.google.com/drive/folders/1snBfwbOQEBmEPHtr3WcT24oANVAqJ9Yj
+
 # FragmentVC
 
 Here is the official implementation of the paper, [FragmentVC: Any-to-Any Voice Conversion by End-to-End Extracting and Fusing Fine-Grained Voice Fragments With Attention](https://arxiv.org/abs/2010.14150).
